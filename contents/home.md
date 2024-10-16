@@ -7,7 +7,7 @@ I am currently pursuing a Degree in Information Systems, at [Universidad Naciona
 FOSS and Linux enthusiast.
 I'm into DevOps and NixOS.
 
-Currently working as tech lead and backend contributor for [CrediSí](https://www.credisisrl.com/)'s project, which is a virtual wallet.
+Currently working as tech lead and backend contributor for [20dedos](https://20dedos.com/)'s project, which is a virtual wallet.
 <br><br>
 
 #### Email
